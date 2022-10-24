@@ -1,3 +1,3 @@
 # JS Chrome App Update
 
-javascript
+Hi javascript.
